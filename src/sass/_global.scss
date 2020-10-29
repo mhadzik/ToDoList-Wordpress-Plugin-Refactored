@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans',
+        sans-serif;
+
+}
+
+.margin-t {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-height: 25%;
+    overflow: auto;
+}

@@ -1,0 +1,20 @@
+.column-b {
+    background-color: $white;
+    border: 1px solid $grey2;
+}
+
+.column-l {
+    border-right: 1px solid $border;
+    margin-right: 5px;
+}
+
+.column-r {
+    border-left: 1px solid $border;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.todo-plugin {
+    font-size: 20px;
+    font-weight: bold;
+}
